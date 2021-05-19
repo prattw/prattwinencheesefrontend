@@ -48,7 +48,7 @@ section, div {
             @include white-text-black-bg;
             padding: 10px;
             font-size: 1.1em;
-            font-family: FogCityGothic-Regular;
+            font-family: 'Times New Roman', Times, serif;
             margin: 10px;
             &[type="submit"]:hover{
                 @include black-text-white-bg()
